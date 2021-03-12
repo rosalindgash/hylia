@@ -5,9 +5,9 @@ permalink: /about/index.html
 ---
 This is a quick overview of my technical skillsets. 
 
-**Front End Skills:** HTML/CSS, Bootstrap, Responsive Web Design, Browser Developer Tools, Command Line, Git/Github
-
 **Computer Science Courses:** Discrete Mathematics, C++ Programming Language, Introduction to Computer Programming with C and C++, Java, Programming Language Design, Operating Systems, Database Management Systems, Web Design and Photoshop, Probability and Statistics, Linear Algebra and Numerical Methods
+
+**Front End Skills:** HTML/CSS, Bootstrap, Responsive Web Design, Browser Developer Tools, Command Line, Git/Github
 
 **Operating Systems:** Linux, Windows 10 (and prior), Windows Server 2012
 
