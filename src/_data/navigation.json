@@ -19,6 +19,10 @@
       "external": true
     },
     {
+      "text": "Social Media",
+      "url": "/social-media/index.html"
+    },
+    {
       "text": "Contact",
       "url": "/contact",
       "external": false
