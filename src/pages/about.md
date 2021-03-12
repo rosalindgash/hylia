@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: About
 permalink: /about/index.html
 ---
-I hold a bachelor's degree from [SUNY Oneonta](https://suny.oneonta.edu) and have post-baccalaureate coursework in computer science from [Rust College](https://www.rustcollege.edu/).
+I hold a bachelor's degree from [SUNY Oneonta](https://suny.oneonta.edu) and have post-baccalaureate coursework in computer science from [Rust College](https://www.rustcollege.edu/). 
 
 The following is a quick overview of my current technical skillset. 
 
