@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: WordPress to Eleventy on Netlify?
 date: 2021-03-11T22:51:00.291Z
-tags: []
+tags:
+  - wordpress
+  - eleventy
+  - netlify
 ---
 I've exclusively blogged using [WordPress](https://wordpress.org) since it was [b2 by cafelog](http://cafelog.com/). I still remember getting the email telling me about it being forked into two different projects and finally making a decision about which project (or neither) to move forward with. 
 
