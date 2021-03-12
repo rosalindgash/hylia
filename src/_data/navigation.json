@@ -6,13 +6,17 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/rosalindgash",
-      "external": true
+      "text": "About",
+      "url": "/about"
     },
     {
       "text": "Projects",
       "url": "/projects"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/rosalindgash",
+      "external": true
     },
     {
       "text": "Contact",
