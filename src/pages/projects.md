@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Projects
+permalink: /projects/index.html
 ---
 [Technical Documentation Project](https://rosalindgash.github.io/technical-documentation/) - One of the final projects required to earn the 300-hour certification in Responsive Web Design from freeCodeCamp.
 
