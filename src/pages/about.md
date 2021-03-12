@@ -3,7 +3,9 @@ layout: layouts/page.njk
 title: About
 permalink: /about/index.html
 ---
-This is a quick overview of my technical skillsets. 
+I hold a bachelor's degree from [SUNY Oneonta](https://suny.oneonta.edu) and have post-baccalaureate coursework in computer science from [Rust College](https://www.rustcollege.edu/). 
+
+The following is a quick overview of my current technical skillset. 
 
 **Computer Science Courses:** Discrete Mathematics, C++ Programming Language, Introduction to Computer Programming with C and C++, Java, Programming Language Design, Operating Systems, Database Management Systems, Web Design and Photoshop, Probability and Statistics, Linear Algebra and Numerical Methods
 
