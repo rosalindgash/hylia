@@ -11,13 +11,13 @@
       "external": true
     },
     {
+      "text": "Projects",
+      "url": "/projects"
+    },
+    {
       "text": "Contact",
       "url": "/contact",
       "external": false
-    },
-    {
-      "text": "Projects",
-      "url": "/projects"
     }
   ]
 }
