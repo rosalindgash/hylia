@@ -9,7 +9,7 @@ tags:
 ---
 ## What is a Content Management System (CMS)?
 
-A content managment system is... The most popular and most used CMS, hands down, is WordPress...
+A content management system is... The most popular and most used CMS, hands down, is WordPress...
 
 ## What Is a Static Site Generator (SSG)?
 
