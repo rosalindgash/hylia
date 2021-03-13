@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Creating a Blog Using Jekyll & Github Pages on Windows
+title: "Fail: Creating a Blog Using Jekyll & Github Pages on Windows"
 date: 2021-03-13T02:15:51.881Z
 tags:
   - jekyll
